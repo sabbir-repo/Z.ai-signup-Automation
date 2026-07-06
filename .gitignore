@@ -1,0 +1,27 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+.venv312/
+.uv_python/
+.uv_cache/
+.nuitka_cache/
+
+# Executables and build files
+*.exe
+*.build/
+*.dist/
+*.onefile-build/
+nuitka-crash-report.xml
+
+# Project specific sensitive data & outputs
+accounts.json
+Webshare 10 proxies.txt
+
+# Playwright & Browsers
+.localappdata/
+.playwright_browsers/
